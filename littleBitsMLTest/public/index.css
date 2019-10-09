@@ -1,0 +1,38 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+</style>
+
+body {
+  font-family: 'Nunito', sans-serif;
+  display: flex;
+  align-items: center;
+  color: purple;
+  margin-left: 50%;
+}
+
+h1 {
+  font-family: 'Nunito', sans-serif;
+  display: flex;
+  align-content: center;
+  color: magenta;
+  margin-left: 37%;
+  }
+
+button {
+  font-family: 'Nunito', sans-serif;
+  color: orange;
+  font-size: 10%;
+  background-color: white;
+  box-shadow: white;
+  margin-left: 45%;
+}
+
+img {
+  margin-left: 27%;
+}
+
+.putInfo {
+  font-family: 'Nunito', sans-serif;
+  color: green;
+  margin-left: 50%;
+}
